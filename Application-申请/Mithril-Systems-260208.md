@@ -40,7 +40,7 @@ Solving this is critical because these corridors represent a structural fact of 
 Mithril is Asset-Backed Settlement Infrastructure that reifies Common Law principles into deterministic Move bytecode focused on the 'Physics of Cargo.'
 
 * **Commercial:** Utilizing Aptos Resource-Oriented Architecture to create 'Smart Safes'. 100% upfront escrow achieves T-0 Technical Finality, enabling the recovery of the commercial surplus.
-* **Legal (The Quistclose Guard):** To ensure structural compliance with HKMA/SFC standards, the protocol reifies purpose-based trust via a Move-native 'Quistclose Guard' to satisfy requirements for insolvency remoteness and client-asset protection.
+* **Legal (The Quistclose Guard):** To ensure structural compliance with HKMA standards, the protocol reifies purpose-based trust via a Move-native 'Quistclose Guard' to satisfy requirements for insolvency remoteness and client-asset protection.
 * **Technical (Triple-Lock Consensus):** Settlement is gated by the convergent verification of L1 Physical (IoT), L2 Documentary (ZK-eBL), and L3 Institutional (Attestation), enforcing 'Recency Alpha' to ensure settlement only occurs on fresh data.
 
 ### 11. Any competitions?
@@ -50,7 +50,7 @@ Prior bank-focused projects like Marco Polo and Contour failed because they atte
 Mithril requires Aptos’s Resource-Oriented Architecture to treat capital as a 'Physical Digital Object'. We utilize Resource Accounts, Signer Capabilities, and the Move Prover to formally verify the 'Quistclose Guard', ensuring insolvency-remoteness is mathematically secured, an architectural necessity for Hong Kong regulatory compliance.
 
 ### 13. Team Background
-* **Darius Azami — Founder & System Architect:** First studying for the English Bar (Prince of Wales Scholar, Gray’s Inn), I hold a BA (Sussex), Masters (UCL), and PhD (Sussex). Following a period working in Employment, Public and Human Rights Law, I served on the Faculty of Diplomacy at Renmin University of China (2016-2022), entrenching an interest in the structural role of China in international trade and development. Since 2022, I have served as Head of Legal Affairs at an AI startup while cultivating a focus on the Move language to reconcile Mithril’s trinity: the commercial thesis, the legal framework, and the technical execution.
+* **Darius Azami. 42, Founder & System Architect:** First studying for the English Bar (Prince of Wales Scholar, Gray’s Inn), I hold a BA (Sussex), Masters (UCL), and PhD (Sussex). Following a period working in Employment, Public and Human Rights Law, I served on the Faculty of Diplomacy at Renmin University of China (2016-2022), entrenching an interest in the structural role of China in international trade and development. Since 2022, I have served as Head of Legal Affairs at an AI startup while cultivating a focus on the Move language to reconcile Mithril’s trinity: the commercial thesis, the legal framework, and the technical execution.
 * **Technical Lead Partner (Recruitment Phase):** We are utilizing this application to trigger Aptos Talent Support resources and have allocated an $18,000 Milestone 2 Technical Execution Bounty for a Move Engineer to execute the 'Proof of Logic' simulation.
 
 ### 14. If you have multiple founders, how did you meet?
